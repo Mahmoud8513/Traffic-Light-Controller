@@ -1,0 +1,14 @@
+main
+	__CC2DW
+		____DoICP
+	Global
+	bin_flag
+	system
+		traffic
+interrupt
+	transsition
+		steady
+		traffic
+	choice
+		manual
+			traffic
